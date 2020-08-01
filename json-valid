@@ -1,0 +1,37 @@
+[{
+	"InScene": null,
+	"BeginPlay": "0001-01-01T00:00:00",
+	"EndPlay": "0001-01-01T00:00:00",
+	"Killed": false,
+	"EventName": "Read",
+	"EventDescription": "Learn info about your environment.",
+	"Xp": 0,
+	"Points": 0,
+	"Alive": false,
+	"PlayerID": 0,
+	"PlayerName": null
+}, {
+	"InScene": null,
+	"BeginPlay": "0001-01-01T00:00:00",
+	"EndPlay": "0001-01-01T00:00:00",
+	"Killed": false,
+	"EventName": "Train",
+	"EventDescription": "Practice skills to earn xp.",
+	"Xp": 0,
+	"Points": 0,
+	"Alive": false,
+	"PlayerID": 0,
+	"PlayerName": null
+}, {
+	"InScene": null,
+	"BeginPlay": "0001-01-01T00:00:00",
+	"EndPlay": "0001-01-01T00:00:00",
+	"Killed": false,
+	"EventName": "Hack",
+	"EventDescription": "Practice programming puzzles to enhance portal-conjuring ability. ",
+	"Xp": 0,
+	"Points": 0,
+	"Alive": false,
+	"PlayerID": 0,
+	"PlayerName": null
+}]
